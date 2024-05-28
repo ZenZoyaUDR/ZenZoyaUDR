@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=27&duration=1500&pause=1500&center=true&vCenter=true&random=false&width=435&lines=Hello+there!+--+I'm+ZenZoya;I'm+a+self+taught+developer+%3C3;I+love+opensource%2C+dont+you%3F" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=27&duration=1500&pause=1500&center=true&vCenter=true&random=false&width=435&lines=Hello+there!+--+I'm+ZenZoya;I'm+a+self+taught+developer+%3C3;I+love+opensource%2C+do+you%3F" alt="Typing SVG">
     <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
