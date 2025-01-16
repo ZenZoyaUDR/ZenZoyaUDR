@@ -8,6 +8,7 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
     </div>
@@ -19,16 +20,16 @@
 ## 🧐 About Me
 ```text
 💬 Programming Languages:
-Javascript
+JavaScript
 Java
 Golang
 
 🔥 Editors: 
-Intellij Ultimate
+Intellij IDEA
 VS Code
 
 💻 Operating System:
-Windows
+Linux
 ```
 
-*(Last Updated: May 28th, 2024)*
+*(Last Updated: Jan 16th, 2025)*
