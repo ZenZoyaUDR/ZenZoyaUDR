@@ -4,11 +4,11 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs">
+        <img src="https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxt">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
     </div>
@@ -20,16 +20,18 @@
 ## 🧐 About Me
 ```text
 💬 Programming Languages:
-JavaScript
-Java
-Golang
+- JavaScript
+- Java
+- Lua
+- HTML
 
 🔥 Editors: 
-Intellij IDEA
-VS Code
+- Intellij IDEA
+- VS Code
 
 💻 Operating System:
-Linux
+- Windows ( Primary, and with Windows Sub-System for Linux (WSL) )
+- Linux ( Secondary )
 ```
 
-*(Last Updated: Jan 16th, 2025)*
+*(Last Updated: Jun 23th, 2025)*
